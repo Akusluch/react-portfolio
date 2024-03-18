@@ -13,11 +13,11 @@ export const projects = [
         image:"/gameharbourscreenshoot.png",
         link:"https://github.com/Akusluch/Game-Harbour",
     },
-    // {
-    //     title:"",
-    //     subtitle:"",
-    //     description: "",
-    //     image:"",
-    //     link:"",
-    // },
+    {
+        title:"Baby Steps",
+        subtitle:"MERN stack",
+        description: "This site is a pregnacy journal",
+        image:"/baby-steps",
+        link:"https://github.com/jeffch19/Baby-Steps",
+    },
 ]
