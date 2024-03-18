@@ -17,7 +17,7 @@ export const projects = [
         title:"Baby Steps",
         subtitle:"MERN stack",
         description: "This site is a pregnacy journal",
-        image:"/baby-steps",
+        image:"/baby-steps.png",
         link:"https://github.com/jeffch19/Baby-Steps",
     },
 ]
